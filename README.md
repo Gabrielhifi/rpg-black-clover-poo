@@ -15,7 +15,6 @@ Um RPG interativo em modo console baseado no universo do anime/mangá **Black Cl
   - [Execução em IDEs](#execução-em-ides)
 - [🏗️ Arquitetura e Princípios SOLID Aplicados](#️-arquitetura-e-princípios-solid-aplicados)
 - [📊 Diagrama de Classes UML](#-diagrama-de-classes-uml)
-- [📸 Demonstração de Execução](#-demonstração-de-execução)
 - [👤 Autor](#-autor)
 
 ---
